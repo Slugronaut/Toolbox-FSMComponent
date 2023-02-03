@@ -1,0 +1,21 @@
+{
+  "name": "com.postegames.fsmcomponent",
+  "version": "1.0.0",
+  "displayName": "PEGLIB - FSM Component",
+  "description": "A simple FSM system using MonoBehaviours.",
+  "unity": "2022.2",
+  "keywords": [
+    "toolbox",
+    "FSM",
+    "component",
+    "MonoBehaviour"
+  ],
+  "author": {
+    "name": "Sluggy",
+    "email": "jcsluggy@gmail.com",
+    "url": "http:/postegames.com"
+  },
+  "dependencies": {
+    "com.postegames.hashedstring": ""
+  }
+}
