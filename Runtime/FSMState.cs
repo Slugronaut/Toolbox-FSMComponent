@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Toolbox.SimpleFSM
+namespace Peg.SimpleFSM
 {
     /// <summary>
     /// Base class for all FSM States.

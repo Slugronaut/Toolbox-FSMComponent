@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace Toolbox.SimpleFSM
+namespace Peg.SimpleFSM
 {
     /// <summary>
     /// 

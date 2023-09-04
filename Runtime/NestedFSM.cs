@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Toolbox.SimpleFSM
+namespace Peg.SimpleFSM
 {
     /// <summary>
     /// A state that references another FSM that runs in its place.
